@@ -6,7 +6,7 @@ but they're not sure what specific races their particular motorcycle is eligible
 ultimately end up not racing.
 
 ## Solution:
-- Race matcher will solve this problem by telling you exactly what racing classes any motorcycle is eligible for based on a few simple parameters such as engine size, year built, etc. This will help aspiring racers overcome one of the more confusing hurdles into the world of motorycle racing.
+- Race matcher will solve this problem by telling you exactly what racing classes any motorcycle is eligible for based on a few simple parameters such as engine size, year built, etc. This will help aspiring racers overcome one of the more confusing hurdles into the world of motorycle racing. Eventually, I'd like to add location functionality that will integrate with google maps to show the location of upcoming races as well.
 
 ## UX:
 - This will be a single page app in which the user will enter some information about their motorcycle into provided fields 
